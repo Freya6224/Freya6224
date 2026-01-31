@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a - Mobile Application Developer intern at Checago Coffee Inc.
 
-- 🌱 I’m currently learning: SWift
+- 🌱 I’m currently learning: Swift
 
 
 - 💻 Senior at UIC pursing Bachelors in Engineering - Computer Science:
