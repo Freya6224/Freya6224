@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Freya Modi</h1>
+<h1 align="center">Hello Techies 👋, I am Freya Modi</h1>
 <h2 align="center">Curious full-stack developer, passionate about solving problems.</h2>
 
 - 🔭 I’m currently a - Mobile Application Developer intern at Checago Coffee Inc.
@@ -24,10 +24,8 @@
 
 
 
-- 📫 How to reach me **freyamodi47@gmail.com**
+- 📫 Contact Me through: **freyamodi47@gmail.com**
   
-
-- ⚡ Fun fact: **I think I am the funniest person**
 
 
 - Little More about my journey:
@@ -39,6 +37,7 @@
   My main skills are in Java, C++, JavaScript, HTML, and SQL, but I’m always open to learning more. What excites me most is the chance to use these skills to build software that makes a difference.
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <a href="https://linkedin.com/in/freyamodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freyamodi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@freyamodi47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@freyamodi47" height="30" width="40" /></a>
