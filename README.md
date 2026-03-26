@@ -16,7 +16,7 @@
 
 | Project Name                | Description |
 |-----------------------------|-------------|
-| **HomePlate** <br> *Typescript,React, CSS, Supabase * | Multiplayer Connect 4 game with server–client architecture, real-time chat, and a dynamic GUI displaying usernames and game stats. |
+| **HomePlate** <br> *Typescript,React, CSS, Supabase* | It is personal project that I am currently building which is a web application designed to bridge the gap between homemade food businesses and their customers. |
 | **Multiplayer Connect 4 Game** <br> *Java, FXML, GUI* | Multiplayer Connect 4 game with server–client architecture, real-time chat, and a dynamic GUI displaying usernames and game stats. |
 | **Coffee Shop Web Application** <br> *JavaScript, React, CSS, PostgreSQL* | Full-stack coffee shop app with shopping cart, secure checkout, AI-generated recommendations, role-based dashboards, and real-time inventory management. |
 | **Weather App** <br> *Java, JavaFX, Maven* | Desktop weather app that fetches live API data, shows daily and weekly forecasts, supports Celsius/Fahrenheit conversion, and features weather-based dynamic backgrounds. |
