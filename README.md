@@ -7,7 +7,7 @@
 
 
 - 💻 Senior at UIC pursing Bachelors in Engineering - Computer Science:
--  Important Courses taken :Data Structures, Software Design, Computer Algorithms, Machine Organization, DataBase Systems
+-  Important Courses taken : Data Structures, Software Design, Computer Algorithms, Machine Organization, DataBase Systems
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/fmodi2](https://github.com/fmodi2)
@@ -16,6 +16,7 @@
 
 | Project Name                | Description |
 |-----------------------------|-------------|
+| **HomePlate** <br> *Typescript,React, CSS, Supabase * | Multiplayer Connect 4 game with server–client architecture, real-time chat, and a dynamic GUI displaying usernames and game stats. |
 | **Multiplayer Connect 4 Game** <br> *Java, FXML, GUI* | Multiplayer Connect 4 game with server–client architecture, real-time chat, and a dynamic GUI displaying usernames and game stats. |
 | **Coffee Shop Web Application** <br> *JavaScript, React, CSS, PostgreSQL* | Full-stack coffee shop app with shopping cart, secure checkout, AI-generated recommendations, role-based dashboards, and real-time inventory management. |
 | **Weather App** <br> *Java, JavaFX, Maven* | Desktop weather app that fetches live API data, shows daily and weekly forecasts, supports Celsius/Fahrenheit conversion, and features weather-based dynamic backgrounds. |
